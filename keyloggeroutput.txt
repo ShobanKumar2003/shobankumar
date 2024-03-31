@@ -1,0 +1,113 @@
+"C:\Users\HP\PycharmProjects\my keylogger project\.venv\Scripts\python.exe" "C:\Users\HP\PycharmProjects\my keylogger project\KeyloggerProject.py" 
+alphanumeric key h pressed
+'h' released
+alphanumeric key i pressed
+'i' released
+special key Key.space pressed
+Key.space released
+alphanumeric key t pressed
+alphanumeric key h pressed
+'t' released
+'h' released
+alphanumeric key i pressed
+'i' released
+alphanumeric key s pressed
+special key Key.space pressed
+'s' released
+Key.space released
+alphanumeric key i pressed
+'i' released
+alphanumeric key s pressed
+'s' released
+special key Key.space pressed
+Key.space released
+alphanumeric key m pressed
+'m' released
+alphanumeric key y pressed
+'y' released
+special key Key.space pressed
+Key.space released
+alphanumeric key k pressed
+'k' released
+alphanumeric key e pressed
+'e' released
+alphanumeric key y pressed
+'y' released
+alphanumeric key l pressed
+'l' released
+alphanumeric key o pressed
+'o' released
+alphanumeric key g pressed
+'g' released
+alphanumeric key g pressed
+'g' released
+alphanumeric key e pressed
+'e' released
+alphanumeric key r pressed
+'r' released
+alphanumeric key s pressed
+'s' released
+special key Key.space pressed
+Key.space released
+alphanumeric key p pressed
+'p' released
+alphanumeric key r pressed
+'r' released
+alphanumeric key o pressed
+'o' released
+alphanumeric key j pressed
+'j' released
+alphanumeric key e pressed
+'e' released
+alphanumeric key c pressed
+'c' released
+alphanumeric key t pressed
+'t' released
+alphanumeric key . pressed
+'.' released
+special key Key.enter pressed
+Key.enter released
+alphanumeric key t pressed
+alphanumeric key h pressed
+'t' released
+'h' released
+alphanumeric key a pressed
+alphanumeric key n pressed
+'a' released
+'n' released
+alphanumeric key k pressed
+'k' released
+special key Key.space pressed
+Key.space released
+alphanumeric key y pressed
+'y' released
+alphanumeric key o pressed
+'o' released
+alphanumeric key u pressed
+'u' released
+alphanumeric key . pressed
+'.' released
+special key Key.enter pressed
+Key.enter released
+special key Key.caps_lock pressed
+Key.caps_lock released
+alphanumeric key g pressed
+'g' released
+special key Key.caps_lock pressed
+Key.caps_lock released
+alphanumeric key o pressed
+'o' released
+alphanumeric key o pressed
+'o' released
+alphanumeric key d pressed
+'d' released
+special key Key.space pressed
+Key.space released
+alphanumeric key b pressed
+'b' released
+alphanumeric key y pressed
+'y' released
+alphanumeric key e pressed
+'e' released
+
+Process finished with exit code -1
